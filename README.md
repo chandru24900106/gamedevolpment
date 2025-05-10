@@ -1,3 +1,5 @@
+### name : chandru v
+### reg no : 212224230043
 # EX 9 : IMAGE EDITING
 
 ## AIM:
@@ -51,3 +53,10 @@
 
 
 ## OUTPUT:
+
+![WhatsApp Image 2025-05-10 at 09 39 39_8a51fc9f](https://github.com/user-attachments/assets/d83b4f3a-2eff-492f-8e47-a7860e4f72df)
+
+
+## result:
+
+ To edit an image using an image editing software is created successfully
